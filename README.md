@@ -14,6 +14,15 @@ and orders with tickets for this movie sessions.
 ```bash
 $ git clone git@github.com:kuznetsb/cinema-api.git
 ```
+<br />
+
+> 👉 Configure environmental variables
+```bash
+$ create .env file in project directory
+$ Use .env.sample as template and copy all those DB variables to .env
+$ fill DB variables with your values in .env file (exmaple: POSTGRES_DB=app)
+```
+Now your Postgres database will be configured properly
 
 <br />
 
