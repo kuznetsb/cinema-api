@@ -31,7 +31,7 @@ Now your Postgres database will be configured properly
 ```bash
 $ docker-compose up
 ```
-That will application with all installed dependencies, database and so on.
+That will run application with all installed dependencies, database and so on.
 Now you can use API!
 <br />
 <br />
@@ -66,3 +66,7 @@ Now you can use staff user, just do 2 and 3 steps from instruction for non-staff
 * Creating cinema halls
 * Adding movie sessions
 * Filtering movies and movie sessions
+
+## DEMO api endpoints 
+![Image](demo-1.png)
+![Image](demo-2.png)
