@@ -68,5 +68,5 @@ Now you can use staff user, just do 2 and 3 steps from instruction for non-staff
 * Filtering movies and movie sessions
 
 ## DEMO api endpoints 
-![Image](demo-1.png)
-![Image](demo-2.png)
+![Image](demo/demo-1.png)
+![Image](demo/demo-2.png)
